@@ -1,5 +1,5 @@
-# pruebadesarrollador
-Prueba API para seleccion de desarrollador
+# Prueba Desarrollador
+Prueba API y Clinete para seleccion de desarrollador
 Para la carperta cliente-hotel se debe
   1. descargar carpeta
   2. Ejecuta npm install o yarn install para instalar las dependencias necesarias.
