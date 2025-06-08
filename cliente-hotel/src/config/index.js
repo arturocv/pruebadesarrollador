@@ -10,11 +10,13 @@ const isLocalhost = Boolean(
     )
 );
 
+/*
 const SERVER_URL = isLocalhost
   ? "http://localhost:8000/api"
   : "https://apiingles.editorialminuevomundo.com/api/v1";
 
-// const SERVER_URL = "https://apics.editorialshalom.com/api";
+  */
+ const SERVER_URL = "https://apipruebadv.editorialminuevomundo.com/api";
 
 export const clienteAxios = axios.create({
     baseURL: `${SERVER_URL}`,
